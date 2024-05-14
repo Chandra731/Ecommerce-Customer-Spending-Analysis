@@ -28,4 +28,4 @@ The analysis is based on the "Ecommerce Customers" dataset, containing informati
 
 1. Ensure you have the required libraries installed (`pandas`, `scikit-learn`, `seaborn`, `matplotlib`).
 2. Place the `Ecommerce Customers.csv` file in the same directory as the code.
-3. Execute the `ecommerce_analysis.ipynb` (or `.py`) script.
+3. Execute the `Linear Regression-Ecommerce Customers .ipynb` (or `.py`) script.
